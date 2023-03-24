@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 import Device from './components/Device/Device'
+import Dial from './components/Dial/Dial'
 import Watch from './components/Watch/Watch'
 
 function App() {
